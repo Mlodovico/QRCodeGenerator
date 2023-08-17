@@ -1,0 +1,14 @@
+{
+  "name": "vuejsqrcodegenerator",
+  "version": "1.0.0",
+  "description": "Project with vue js to study framework",
+  "main": "index.js",
+  "scripts": {
+    "qrcode": "http-server ./src -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
