@@ -4,7 +4,7 @@
   "description": "Project with vue js to study framework",
   "main": "index.js",
   "scripts": {
-    "qrcode": "http-server ./src -c-1"
+    "start": "http-server ./src -c-1"
   },
   "author": "",
   "license": "ISC",
